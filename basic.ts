@@ -3,4 +3,4 @@ function greet(name: string): string{
 }
 
 console.log(greet("shahid"));
-console.log(greet(56));
+// console.log(greet(56));
